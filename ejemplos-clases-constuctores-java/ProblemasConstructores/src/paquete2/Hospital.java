@@ -22,9 +22,9 @@ public class Hospital {
     */
     
     
-    public Hospital(){
-        nombre = "na";
-        ciudad = "ciu";
+    public Hospital(String a, String b, int c, int d){
+        nombre = "Isidro Ayora";
+        ciudad = "Loja";
         numeroDoctores = 100;
         numeroEnfermeros = 400;
     }
