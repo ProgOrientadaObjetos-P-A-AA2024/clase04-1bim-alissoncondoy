@@ -23,7 +23,7 @@ public class Hospital {
     
     
     public Hospital(String a, String b, int c, int d){
-        nombre = "Isidro Ayora";
+        nombre = "na";
         ciudad = "Loja";
         numeroDoctores = 100;
         numeroEnfermeros = 400;
